@@ -1,3 +1,2 @@
 # motherfuckingwebsite
-
-motherfuckingwebsite.github.io
+belettino.tk
