@@ -1,6 +1,9 @@
-p
-{font-family: "Arial";
-color:red;}
+#header{
+    text-align: center;
+    background-color: gray;
+    color: white;
+
+}
 
 body{
     margin:40px auto;
@@ -14,92 +17,6 @@ h1,h2,h3{
     line-height:1.2;
 }
 
-.fucking_noise{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50%;
-    width: 100;
-}
-
-#header{
-    text-align: center;
-    border-style: solid;
-    color: black;
-}
-
-.button_container{
-    width: 100%;
-    text-align: center;
-
-}
-    
-#button_open{
-    height: 50px;
-    width: 170px;
-    background-color: black;
-    color: white;
-    font-family: helvetica;
-    font-size: 20px;
-    border: none;
-    cursor: pointer;
-    margin-top: 30px;
-}
-
-#bouttonclose{
-    width: 30px;
-    height: 30px;
-    position: relative;
-    left: 180px;
-    top: auto;
-    background-color: #000;
-    color: white;
-    line-height: 30px;
-    text-align: center;
-    font-size: 20px;
-    -webkit-border-radius: 50px;
-    -moz-border-radius: 50px;
-     border-radius: 50px;
-}
-
-#model {
-    height: 100%;
-    width: 100%;
-    position: fixed;
-    top: 0;
-    z-index: 0;
-    background-color: gray;
-    font-family:helvetica;
-    text-align: center;
-    color: black;
-    }
-
-#model h1 {
-    padding-top: 60px;
-}
-
-#popup {
-    width: 350px;
-    background-color: white;
-    padding: 0 20px 20px;
-    height: auto;
-    z-index: 9;
-    position: fixed;
-    top: 0px;
-    right: 0px;
-    left: 0;
-    margin: 0 auto;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
-    border: 4px #48312B solid;
-}
 
 
-
-
-
-
-
-   
 

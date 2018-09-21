@@ -1,1 +1,3 @@
-# BetterMotherFuckingWebsite.github.io
+# motherfuckingwebsite
+
+http://belettino.tk/
