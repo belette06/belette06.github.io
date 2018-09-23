@@ -1,3 +1,4 @@
 # motherfuckingwebsite
 
-http://belettino.tk/
+
+http://betterbetino.tk/
